@@ -12,3 +12,12 @@ Avvio locale: eseguire un server HTTP statico nella cartella (per esempio python
 
 Verificato: caricamento GLB di 10 corpi nel browser, visualizzazione nella foto, esportazione PNG a 1500 × 2000. File calibrazione.json contiene i parametri usati. Per validare meglio il collocamento occorre una seconda dimensione nota sul medesimo piano della parete, oppure camera calibrata/rilievo.
 
+
+
+## Visualizzatore aggiornato · prova 03
+
+[Apri la prova aggiornata](https://zacrel.github.io/maru-nella-stanza/test-20261031/prova-03/index.html).
+
+Quattro ambienti, sei GLB HIRO, trascinamento con il mouse e rotazione. Nella prima stanza MARU resta vincolato al pavimento e alla parete. Riferimenti dichiarati: vano 80 × 210 cm e battiscopa 350 cm. La prospettiva della profondità usa una focale ipotizzata; non è una calibrazione metrica certificata. Gli altri prodotti mantengono il posizionamento approssimato.
+
+Le fonti delle immagini sono collegate in ciascuna scena. Le prime tre fotografie provengono da Pexels; il quarto caso è uno schema 3D pubblicato su Reddit, non una fotografia. I diritti delle immagini e dei modelli restano ai rispettivi titolari; la pubblicazione non attribuisce una nuova licenza su questi materiali.
